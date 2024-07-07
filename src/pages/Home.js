@@ -23,7 +23,7 @@ function Home() {
           flexDirection: "column",
           alignItems: "flex-start",
           justifyContent: "flex-start",
-          gap: 70,
+          gap: 50,
         }}
       >
         <Box
@@ -35,7 +35,7 @@ function Home() {
         >
           <Typography
             variant="h2"
-            sx={{ fontWeight: "bold", mt: 4, color: theme.palette.black.main }}
+            sx={{ fontWeight: "bold", mt: 3, color: theme.palette.black.main }}
           >
             SaharaAI
           </Typography>
@@ -73,7 +73,7 @@ function Home() {
           <img
             src={logo}
             alt="SaharaAI Logo"
-            className="svg-animate"
+            className="svg-animate-right"
             style={{ width: "100px", marginBottom: "20px" }}
           />
           <Typography

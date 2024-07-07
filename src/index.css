@@ -12,7 +12,16 @@ code {
     monospace;
 }
 
-@keyframes rotate {
+@keyframes rotate-left {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+@keyframes rotate-right {
   from {
     transform: rotate(0deg);
   }
@@ -21,6 +30,10 @@ code {
   }
 }
 
-.svg-animate {
-  animation: rotate 5s linear infinite;
+.svg-animate-left {
+  animation: rotate-left 5s linear infinite;
+}
+
+.svg-animate-right {
+  animation: rotate-right 5s linear infinite;
 }
