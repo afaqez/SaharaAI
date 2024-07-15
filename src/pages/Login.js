@@ -1,18 +1,19 @@
-import React from "react";
+import * as React from "react";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
+import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
-import FormTextField from "../components/FormTextField"; // Assuming this is the correct path to your component
 import { useTheme } from "@mui/material/styles";
 import logo from "../assets/images/logo.svg";
+import FormTextField from "../components/FormTextField";
 
-function Register() {
+function Login() {
   const theme = useTheme();
 
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    console.log("Register Form submitted!");
+    console.log("Login Form submitted!");
   };
 
   return (
@@ -56,32 +57,9 @@ function Register() {
             color: theme.palette.primary.main,
           }}
         >
-          Register
+          Log In
         </Typography>
-        <Box
-          sx={{
-            mb: 2,
-            gap: 1,
-            display: "flex",
-            justifyContent: "center",
-            flexDirection: { xs: "column", sm: "row" },
-          }}
-        >
-          <FormTextField
-            label="First Name"
-            type="text"
-            name="firstName"
-            required
-            sx={{ mb: 2 }}
-          />
-          <FormTextField
-            label="Last Name"
-            type="text"
-            name="lastName"
-            required
-            sx={{ mb: 2 }}
-          />
-        </Box>
+
         <FormTextField
           label="Email"
           type="email"
@@ -96,15 +74,8 @@ function Register() {
           required
           sx={{ mb: 2 }}
         />
-        <FormTextField
-          label="Re-enter Password"
-          type="password"
-          name="passwordConfirmation"
-          required
-          sx={{ mb: 2 }}
-        />
+
         <Button
-          type="submit"
           variant="contained"
           color="primary"
           fullWidth
@@ -114,11 +85,11 @@ function Register() {
             mb: 2,
           }}
         >
-          Register
+          Log In
         </Button>
       </Box>
     </Box>
   );
 }
 
-export default Register;
+export default Login;

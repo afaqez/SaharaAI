@@ -5,6 +5,7 @@ import Typography from "@mui/material/Typography";
 import { useTheme } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 import logo from "../assets/images/logo.svg";
+import { Link } from "react-router-dom";
 
 function Home() {
   const theme = useTheme();
@@ -19,7 +20,6 @@ function Home() {
         sx={{
           bgcolor: theme.palette.primary.main,
           display: { xs: "none", md: "flex" }, // Hide on mobile, show on desktop
-
           flexDirection: "column",
           alignItems: "flex-start",
           justifyContent: "flex-start",
@@ -46,7 +46,7 @@ function Home() {
             sx={{
               color: theme.palette.black.main,
               p: 2,
-              mt: 4,
+              mt: 18,
               pl: 5,
             }}
           >
@@ -85,26 +85,30 @@ function Home() {
           >
             Guiding Your Path
           </Typography>
-          <Button
-            variant="contained"
-            color="primary"
-            sx={{ mb: 1, width: "100%", height: "60px", borderRadius: 3 }}
-          >
-            Sign In
-          </Button>
-          <Button
-            variant="outlined"
-            sx={{
-              color: theme.palette.white.main,
-              borderColor: theme.palette.primary.main,
-              width: "100%",
-              height: "60px",
-              borderRadius: 3,
-              mt: 1,
-            }}
-          >
-            Register
-          </Button>
+          <Link to="/login">
+            <Button
+              variant="contained"
+              color="primary"
+              sx={{ mb: 1, width: "100%", height: "60px", borderRadius: 3 }}
+            >
+              Sign In
+            </Button>
+          </Link>
+          <Link to="/register">
+            <Button
+              variant="outlined"
+              sx={{
+                color: theme.palette.white.main,
+                borderColor: theme.palette.primary.main,
+                width: "100%",
+                height: "60px",
+                borderRadius: 3,
+                mt: 1,
+              }}
+            >
+              Register
+            </Button>
+          </Link>
         </Box>
       </Grid>
     </Grid>
