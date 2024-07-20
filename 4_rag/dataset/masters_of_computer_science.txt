@@ -1,0 +1,118 @@
+Title: MS Computer Science - Capital University of Science & Technology
+
+URL Source: https://cust.edu.pk/faculty-of-computing/department-of-computer-science/ms-computer-science/
+
+Markdown Content:
+MS Computer Science - Capital University of Science & Technology
+===============
+                                                     
+
+
+MS Computer Science
+-------------------
+
+![Image 3](https://cust.edu.pk/wp-content/uploads/2022/08/banner_s1-1.jpg)
+
+**About The Program**
+---------------------
+
+The MS program in computer science imparts advanced knowledge in core Computer Science subjects and also of different streams, e.g., semantic computing. At the same time, students get initial training on how to conduct research through research thesis .The successful graduate may develop careers in Research and Development, Industry, Academia  ,Defense Organizations etc. At the MS level, the department of Computer Science at C.U.S.T offers specializations in the fields of Software Engineering, Computer Networks, Artificial Intelligence, Data Science and Information Security
+
+**Admission Requirements**
+--------------------------
+
+*   A minimum of 16 years of education leading to BS in Computer Science/ Information Technology/ Software Engineering or equivalent. Applicants with undergraduate degree from non-relevant areas may be required to take some undergraduate courses to fulfill pre-requisite deficiencies as determined by the Graduate Admission Committee. The deficiency Cr. Hrs. will not be counted towards the minimum Cr. Hrs. requirement for the award of the MS degree.
+*   Minimum 2.00/4.00 CGPA or 50% marks
+*   Admission Test / HEC Approved Test
+
+[Apply Now](https://admissions.cust.edu.pk/)
+
+#### [Degree Requirements](https://cust.edu.pk/faculty-of-computing/department-of-computer-science/ms-computer-science/#1659676091903-0f8af570-fee3)
+
+Degree Requirements
+-------------------
+
+A student admitted in this program will have to complete the degree requirements by following any one of the options given below:
+
+| AREA | Cr. Hrs. |
+| --- | --- |
+| 24 Cr. Hrs. Course Work and 06 Cr. Hrs. Thesis | 30 |
+| Course work only (10 Courses) | 30 |
+
+Specialization Requirements
+---------------------------
+
+A student can claim a specialization if he/she has completed 15 Cr. Hrs. including research work, if opted, from one of the specialization area courses offered by the department. Otherwise, on the completion of 30 Cr. Hrs. he/she will be awarded the MS degree without any specialization.
+
+Duration
+--------
+
+This is normally a two years program comprising of 4 semesters. There will be a Fall and a Spring semester in each year. The maximum duration to complete MS in Computer Science is 4 years.
+
+CGPA Requirement
+----------------
+
+A student is required to earn a minimum 3.00/4.00 CGPA on the completion of his degree requirements.
+
+Core Courses
+------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Advanced Analysis of Algorithms</td><td>CS5123</td><td>3</td></tr><tr><td>Advanced Computer Architecture</td><td>CS5413</td><td>3</td></tr><tr><td>Advanced Operating Systems</td><td>CS5433</td><td>3</td></tr><tr><td>Advanced Theory of Computation</td><td>CS5113</td><td>3</td></tr></tbody></table>
+
+Specialization Areas
+--------------------
+
+### 1\. Software Engineering
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Advanced Software Architecture</td><td>CS5213</td><td>3</td></tr><tr><td>Requirements Engineering</td><td>CS5253</td><td>3</td></tr><tr><td>Software Engineering Processes</td><td>CS5263</td><td>3</td></tr><tr><td>Software Risk Management</td><td>CS6243</td><td>3</td></tr><tr><td>Semantic Computing</td><td>CS6113</td><td>3</td></tr><tr><td>Formal Methods in Software Engineering</td><td>CS5623</td><td>3</td></tr><tr><td>Model and Specification Based Software Testing</td><td>CS5633</td><td>3</td></tr><tr><td>Ontology Engineering</td><td>CS6143</td><td>3</td></tr><tr><td>Safety-critical Systems</td><td>CS6213</td><td>3</td></tr><tr><td>Software Fault Tolerance</td><td>CS6223</td><td>3</td></tr><tr><td>Advanced Software Testing</td><td>CS6233</td><td>3</td></tr><tr><td>Advanced Software Engineering</td><td>CS6263</td><td>3</td></tr><tr><td>Special Topics in Software System and Engineering</td><td>CS6xx3</td><td>3</td></tr><tr><td>Advanced Software Project Management</td><td>CS5373</td><td>3</td></tr><tr><td>Advanced Software Quality Assurance</td><td>CS6283</td><td>3</td></tr><tr><td>Secured Software Development</td><td>CS5643</td><td>3</td></tr><tr><td>Advanced Usability Engineering</td><td>CS5653</td><td>3</td></tr></tbody></table>
+
+### 2\. Computer Networks
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Multimedia Services over IP Networks</td><td>CS6523</td><td>3</td></tr><tr><td>Advanced Computer Networks</td><td>CS6713</td><td>3</td></tr><tr><td>Internet Protocols</td><td>CS5723</td><td>3</td></tr><tr><td>Network Programming</td><td>CS5733</td><td>3</td></tr><tr><td>Mobile and Wireless Networks</td><td>CS6723</td><td>3</td></tr><tr><td>Topics in Computer Networks</td><td>CS6733</td><td>3</td></tr><tr><td>Network Security</td><td>CS5713</td><td>3</td></tr></tbody></table>
+
+### 3\. Artificial Intelligence
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Advance Artificial Intelligence</td><td>CS5523</td><td>3</td></tr><tr><td>Pattern Recognition</td><td>CS5533</td><td>3</td></tr><tr><td>Artificial Neural Networks</td><td>CS6533</td><td>3</td></tr><tr><td>Digital Image Processing</td><td>CS5553</td><td>3</td></tr><tr><td>Natural Language Processing</td><td>CS5563</td><td>3</td></tr><tr><td>Text Mining and Information Retrieval</td><td>CS5573</td><td>3</td></tr><tr><td>Decision Support and Expert Systems</td><td>CS6563</td><td>3</td></tr><tr><td>Intelligent Systems</td><td>CS5583</td><td>3</td></tr><tr><td>Fuzzy Systems</td><td>CS5533</td><td>3</td></tr><tr><td>Advance Statistical Analysis</td><td>CS6543</td><td>3</td></tr><tr><td>Knowledge Graph based Systems</td><td>CS6553</td><td>3</td></tr></tbody></table>
+
+### 4\. Data Science
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Data Mining</td><td>CS5343</td><td>3</td></tr><tr><td>Modeling and Optimization</td><td>CS6613</td><td>3</td></tr><tr><td>Advanced Data Mining</td><td>CS6333</td><td>3</td></tr><tr><td>Data Warehousing</td><td>CS5333</td><td>3</td></tr><tr><td>Big Data Analytics</td><td>CS5953</td><td>3</td></tr><tr><td>Distributed Database Systems</td><td>CS5323</td><td>3</td></tr><tr><td>Decision Support Systems</td><td>CS5923</td><td>3</td></tr><tr><td>Web Mining</td><td>CS6323</td><td>3</td></tr><tr><td>Advanced Topics in Data Mining</td><td>CS6313</td><td>3</td></tr><tr><td>Data Visualization</td><td>CS5963</td><td>3</td></tr><tr><td>Algorithms for Data Science</td><td>CS5973</td><td>3</td></tr><tr><td>Statistics for Data Science</td><td>CS5983</td><td>3</td></tr><tr><td>Machine Learning for Data Science</td><td>CS5993</td><td>3</td></tr><tr><td>Semantics for Big Data</td><td>CS5833</td><td>3</td></tr><tr><td>Graph Analytics</td><td>CS5843</td><td>3</td></tr><tr><td>Ontology for Big Data</td><td>CS5853</td><td>3</td></tr><tr><td>Data Mining of Healthcare Analytics</td><td>CS5813</td><td>3</td></tr><tr><td>Healthcare Data Acquisition</td><td>CS5853</td><td>3</td></tr></tbody></table>
+
+### 5\. Information Security
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Network Security</td><td>CS5713</td><td>3</td></tr><tr><td>Computer Security</td><td>CS5753</td><td>3</td></tr><tr><td>Electronic Warfare – Principles and Techniques</td><td>CS5763</td><td>3</td></tr><tr><td>Cloud Computing Security</td><td>CS5773</td><td>3</td></tr><tr><td>Advanced Cryptography</td><td>CS5783</td><td>3</td></tr><tr><td>Digital Forensic</td><td>CS5793</td><td>3</td></tr><tr><td>Applied Cryptography</td><td>CS5953</td><td>3</td></tr><tr><td>Crypto Analysis</td><td>CS6833</td><td>3</td></tr><tr><td>Cyber Attack – Modeling and Analysis</td><td>CS6843</td><td>3</td></tr><tr><td>Information Security Policy and Management</td><td>CS6853</td><td>3</td></tr><tr><td>Cyber Forensic and Incident Response</td><td>CS6863</td><td>3</td></tr><tr><td>Semantics for Information Security</td><td>CS6873</td><td>3</td></tr></tbody></table>
+
+Research Thesis
+---------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr><td>Research Thesis</td><td>CS6916</td><td>6</td></tr></tbody></table>
+
+### Follow Us on Social Media
+
+*   [](https://www.facebook.com/capitaluniversityislamabad)
+*   [](https://www.instagram.com/capital_university/?hl=en)
+*   [](https://pk.linkedin.com/school/capital-university-of-science-and-technology/)
+
+#### Other Links
+
+*   [Accreditation](https://cust.edu.pk/accreditation/)
+*   [Societies & Clubs](https://cust.edu.pk/societies-clubs/)
+*   [Alumni](http://alumni.cust.edu.pk/)
+*   [Prospectus](https://cust.edu.pk/prospectus/)
+*   [Scholarships](https://cust.edu.pk/scholarship/)
+*   [ELIC](https://cust.edu.pk/office-of-external-linkages-and-international-collaborations/)
+*   [VIS Directorate](https://cust.edu.pk/my-capital/vis-directorate/)
+*   [Career Services Office](https://cust.edu.pk/placement-office/)
+*   [DSE](https://cust.edu.pk/sustainability/)
+
+#### Useful Links
+
+*   [FAQs](https://cust.edu.pk/faqs/)
+*   [Policy](https://cust.edu.pk/policies/)
+*   [Harassment at Workplace](https://cust.edu.pk/wp-content/uploads/2022/12/CUST-Harasment-Policy-28-01-2022.pdf)
+*   [Faculty Hand Book](https://cust.edu.pk/static/uploads/2019/10/CUST-Faculty-Hand-Book-as-on-23-Oct-2019.pdf)
+*   [JBRC](http://jbr-cust.azurewebsites.net/)
+*   [CPEC](https://cpec-centre.pk/)
+*   [Privacy Policy](https://cust.edu.pk/privacy-policy/)
+*   [Employee Portal](https://cms.cust.edu.pk/)
+*   [Downloads](https://cust.edu.pk/downloads/)

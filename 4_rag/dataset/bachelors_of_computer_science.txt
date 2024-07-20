@@ -1,0 +1,174 @@
+Title: BS Computer Science - Capital University of Science & Technology
+
+URL Source: https://cust.edu.pk/faculty-of-computing/department-of-computer-science/bs-computer-science/
+
+Markdown Content:
+BS Computer Science - Capital University of Science & Technology
+===============
+                                                    
+
+
+BS Computer Science
+-------------------
+
+![Image 3](https://cust.edu.pk/wp-content/uploads/2022/08/banner_s1-1.jpg)
+
+**BS Computer Science**
+-----------------------
+
+The BS program offered by the department focuses on producing high quality computer scientists with a broad vision and strong ethical values. The curriculum for BS CS program contains 5 elective courses (15 SCH). The students are offered elective courses in different streams, so that they can specialize in the area of their interest.
+
+**Admission Requirements**
+--------------------------
+
+*   FSC/ICS/A-Level with Maths or equivalent with at least 50% marks in aggregate.
+*   CUST Admission Test or HEC Approved Test.
+
+[Apply Now](https://admissions.cust.edu.pk/)
+
+#### [Degree Requirements](https://cust.edu.pk/faculty-of-computing/department-of-computer-science/bs-computer-science/#1659676091903-0f8af570-fee3)
+
+DEGREE REQUIREMENTS
+-------------------
+
+| Area | Cr. Hrs. |
+| --- | --- |
+| a) General Education | 30 |
+| b) Major Courses | 73 |
+| c) Allied Courses | 12 |
+| d) Elective Courses | 09 |
+| e) Capstone Project | 06 |
+| f) Internship | 03 |
+| Total | 133 |
+
+General Education (30 Cr. Hrs.)
+-------------------------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r1"><td>Functional English</td><td>CSG1113</td><td>3</td></tr><tr class="r2"><td>Expository Writing</td><td>CSG1123</td><td>3</td></tr><tr class="r1"><td>Islamic Studies/Ethics</td><td>CSG1012</td><td>2</td></tr><tr class="r2"><td>Ideology and Constitution of Pakistan</td><td>CSG1022</td><td>2</td></tr><tr class="r1"><td>Personal Grooming</td><td>CSG2212</td><td>2</td></tr><tr class="r2"><td>Applied Physics</td><td>CSG1312</td><td>2</td></tr><tr class="r1"><td>Applied Physics Lab</td><td>CSG1311</td><td>1</td></tr><tr class="r2"><td>Sociology</td><td>CSG1412</td><td>2</td></tr><tr class="r1"><td>Calculus and Analytic Geometry</td><td>CSG1513</td><td>3</td></tr><tr class="r2"><td>Discrete Structures</td><td>CSG1573</td><td>3</td></tr><tr class="r1"><td>Applications of Information and Communication Technologies</td><td>CSG1612</td><td>2</td></tr><tr class="r2"><td>Applications of Information and Communication Technologies Lab</td><td>CSG1611</td><td>1</td></tr><tr class="r1"><td>Entrepreneurship</td><td>CSG2712</td><td>2</td></tr><tr class="r2"><td>Civics and Professional Ethics</td><td>CSG2812</td><td>2</td></tr></tbody></table>
+
+Major Courses (73 Cr. Hrs.)
+---------------------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r1"><td>Introduction to Programming</td><td>CS1133</td><td>3</td></tr><tr class="r2"><td>Introduction to Programming Lab</td><td>CS1131</td><td>1</td></tr><tr class="r1"><td>Object Oriented Programming</td><td>CS1143</td><td>3</td></tr><tr class="r2"><td>Object Oriented Programming Lab</td><td>CS1141</td><td>1</td></tr><tr class="r1"><td>Introduction to Database Systems</td><td>CS2313</td><td>3</td></tr><tr class="r2"><td>Introduction to Database Systems Lab</td><td>CS2311</td><td>1</td></tr><tr class="r1"><td>Digital Logic Design</td><td>CS2512</td><td>2</td></tr><tr class="r2"><td>Digital Logic Design Lab</td><td>CS2511</td><td>1</td></tr><tr class="r1"><td>Data Structures</td><td>CS2143</td><td>3</td></tr><tr class="r2"><td>Data Structures Lab</td><td>CS2141</td><td>1</td></tr><tr class="r1"><td>Introduction to Information Security and Forensics</td><td>CS3712</td><td>2</td></tr><tr class="r2"><td>Introduction to Information Security and Forensics Lab</td><td>CS3711</td><td>1</td></tr><tr class="r1"><td>Artificial Intelligence</td><td>CS3812</td><td>2</td></tr><tr class="r2"><td>Artificial Intelligence Lab</td><td>CS3811</td><td>1</td></tr><tr class="r1"><td>Computer Networks</td><td>CS2772</td><td>2</td></tr><tr class="r2"><td>Computer Networks Lab</td><td>CS2771</td><td>1</td></tr><tr class="r1"><td>Software Engineering</td><td>CS2223</td><td>3</td></tr><tr class="r2"><td>Computer Organization and Assembly Language</td><td>CS2522</td><td>2</td></tr><tr class="r1"><td>Computer Organization and Assembly Language Lab</td><td>CS2521</td><td>1</td></tr><tr class="r1"><td>Operating Systems</td><td>CS3412</td><td>2</td></tr><tr class="r2"><td>Operating Systems Lab</td><td>CS3411</td><td>1</td></tr><tr class="r1"><td>Design and Analysis of Algorithms</td><td>CS3163</td><td>3</td></tr><tr class="r2"><td>Human Computer Interaction</td><td>CS4272</td><td>2</td></tr><tr class="r1"><td>Human Computer Interaction Lab</td><td>CS4271</td><td>1</td></tr><tr class="r2"><td>Compiler Construction</td><td>CS4622</td><td>2</td></tr><tr class="r1"><td>Compiler Construction Lab</td><td>CS4621</td><td>1</td></tr><tr class="r2"><td>Database Management Systems</td><td>CS2322</td><td>2</td></tr><tr class="r1"><td>Database Management Systems Lab</td><td>CS2321</td><td>1</td></tr><tr class="r2"><td>Parallel and Distributed Computing</td><td>CS3432</td><td>2</td></tr><tr class="r1"><td>Parallel and Distributed Computing Lab</td><td>CS3431</td><td>1</td></tr><tr class="r2"><td>Theory of Automata and Formal Languages</td><td>CS3613</td><td>3</td></tr><tr class="r1"><td>Computer Architecture</td><td>CS3512</td><td>2</td></tr><tr class="r2"><td>Computer Architecture Lab</td><td>CS3511</td><td>1</td></tr><tr class="r1"><td>Graph Algorithms</td><td>CS3283</td><td>3</td></tr><tr class="r2"><td>Numerical Computing</td><td>CS3072</td><td>2</td></tr><tr class="r1"><td>Numerical Computing Lab</td><td>CS3071</td><td>1</td></tr><tr class="r2"><td>Web Application Development</td><td>CS3192</td><td>2</td></tr><tr class="r1"><td>Web Application Development Lab</td><td>CS3191</td><td>1</td></tr><tr class="r2"><td>Mobile Application Development</td><td>CS4192</td><td>2</td></tr><tr class="r1"><td>Mobile Application Development Lab</td><td>CS4191</td><td>1</td></tr><tr class="r2"><td>Financial Accounting</td><td>ACCS4003</td><td>3</td></tr></tbody></table>
+
+Allied Courses (12 Cr. Hrs.)
+----------------------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r1"><td>Linear Algebra</td><td>MTCS1033</td><td>3</td></tr><tr class="r2"><td>Probability and Statistics</td><td>MTCS2063</td><td>3</td></tr><tr class="r1"><td>Multi-variate Calculus</td><td>MTCS2053</td><td>3</td></tr><tr class="r2"><td>Technical &amp; Business Writing</td><td>HMCS3033</td><td>3</td></tr></tbody></table>
+
+Elective Courses (09 Cr. Hrs.)
+------------------------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r1"><td>Elective – I (Machine Learning)</td><td>CS4613</td><td>3</td></tr><tr class="r2"><td>Elective – II (Blockchain Technology)</td><td>CS4573</td><td>3</td></tr><tr class="r1"><td>Elective – III (Introduction to Data Warehousing)</td><td>CS4333</td><td>3</td></tr></tbody></table>
+
+Internship (03 Cr. Hrs.)
+------------------------
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r2"><td>Internship</td><td>CS4103</td><td>3</td></tr></tbody></table>
+
+Design Project (06 Cr. Hrs)
+---------------------------
+
+After the completion of 90 Cr. Hrs. the students are required to demonstrate their practical skills in the field of computer science by designing and implementing a design project worth 6 Cr. Hrs. The project shall be completed in two parts as given bellow:
+
+<table class="sem_table"><colgroup><col class="w"> <col class="x"> <col class="y"></colgroup><tbody><tr class="heading" style="color: white !important; background-color: #112269 !important;"><th><strong>Course Title</strong></th><th><strong>Code</strong></th><th>Cr. Hrs.</th></tr><tr class="r1"><td>Design Project (Part-I)</td><td>CS4912</td><td>2</td></tr><tr class="r2"><td>Design Project (Part-II)</td><td>CS4924</td><td>4</td></tr></tbody></table>
+
+Community Service (VIS4000)
+---------------------------
+
+Each student is required to complete 65 hours community work, usually after 4th semester which would be a prerequisite to clear the student for the award of degree.
+
+CGPA Requirement
+----------------
+
+A student is required to earn a minimum 2.00/4.00 CGPA on the completion of his/her degree requirements
+
+Program Duration
+----------------
+
+This is a four years degree program comprising of 8 semesters with a minimum of 133 Cr. Hrs. There will be a Fall and a Spring semester in each year. The summer semester will be utilized for internship or deficiency courses. The maximum duration to complete BS Computer Science degree is 07 years
+
+#### [Scheme of Studies](https://cust.edu.pk/faculty-of-computing/department-of-computer-science/bs-computer-science/#1659676090201-0dea884f-38be)
+
+Semester - 1 (18 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>1133</td><td>Introduction to Programming</td><td>3</td></tr><tr class="r2"><td>CS</td><td>1131</td><td>Introduction to Programming Lab</td><td>1</td></tr><tr class="r1"><td>CSG</td><td>1022</td><td>Ideology and Constitution of Pakistan</td><td>2</td></tr><tr class="r2"><td>CSG</td><td>1113</td><td>Functional English</td><td>3</td></tr><tr class="r1"><td>CSG</td><td>1513</td><td>Calculus and Analytic Geometry</td><td>3</td></tr><tr class="r2"><td>CSG</td><td>1612</td><td>Applications of Information and Communication Technologies</td><td>2</td></tr><tr class="r1"><td>CSG</td><td>1611</td><td>Applications of Information and Communication Technologies Lab</td><td>1</td></tr><tr class="r2"><td>CSG</td><td>1312</td><td>Applied Physics</td><td>2</td></tr><tr class="r1"><td>CSG</td><td>1311</td><td>Applied Physics Lab</td><td>1</td></tr></tbody></table>
+
+Semester - 2 (17 Cr. Hrs)
+-------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>1143</td><td>Object Oriented Programming</td><td>3</td></tr><tr class="r2"><td>CS</td><td>1141</td><td>Object Oriented Programming Lab</td><td>1</td></tr><tr class="r1"><td>CSG</td><td>1123</td><td>Expository Writing</td><td>3</td></tr><tr class="r2"><td>CSG</td><td>1412</td><td>Sociology</td><td>2</td></tr><tr class="r1"><td>CSG</td><td>1573</td><td>Discrete Structures</td><td>3</td></tr><tr class="r2"><td>MTCS</td><td>1033</td><td>Linear Algebra</td><td>3</td></tr><tr class="r1"><td>CSG</td><td>1012</td><td>Islamic Studies/Ethics</td><td>2</td></tr></tbody></table>
+
+Semester - 3 (17 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>2143</td><td>Data Structures</td><td>3</td></tr><tr class="r2"><td>CS</td><td>2141</td><td>Data Structures Lab</td><td>1</td></tr><tr class="r1"><td>MTCS</td><td>2063</td><td>Probability and Statistics</td><td>3</td></tr><tr class="r2"><td>CSG</td><td>2212</td><td>Personal Grooming</td><td>2</td></tr><tr class="r1"><td>CS</td><td>2313</td><td>Introduction to Database Systems</td><td>3</td></tr><tr class="r2"><td>CS</td><td>2311</td><td>Introduction to Database Systems Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>2512</td><td>Digital Logic Design</td><td>2</td></tr><tr class="r2"><td>CS</td><td>2511</td><td>Digital Logic Design Lab</td><td>1</td></tr><tr class="r1"><td>CSG</td><td>2712</td><td>Entrepreneurship</td><td>2</td></tr></tbody></table>
+
+Semester - 4 (18 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>2223</td><td>Software Engineering</td><td>3</td></tr><tr class="r2"><td>CS</td><td>2322</td><td>Database Management Systems</td><td>2</td></tr><tr class="r1"><td>CS</td><td>2321</td><td>Database Management Systems Lab</td><td>1</td></tr><tr class="r2"><td>CS</td><td>2522</td><td>Computer Organization and Assembly Language</td><td>2</td></tr><tr class="r1"><td>CS</td><td>2521</td><td>Computer Organization and Assembly Language Lab</td><td>1</td></tr><tr class="r2"><td>CS</td><td>2772</td><td>Computer Networks</td><td>2</td></tr><tr class="r1"><td>CS</td><td>2771</td><td>Computer Networks Lab</td><td>1</td></tr><tr class="r2"><td>CSG</td><td>2812</td><td>Civics and Professional Ethics</td><td>2</td></tr><tr class="r1"><td>MTCS</td><td>2053</td><td>Multi-variate Calculus</td><td>3</td></tr></tbody></table>
+
+Semester - 5 (16 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>3163</td><td>Design and Analysis of Algorithms</td><td>3</td></tr><tr class="r2"><td>CS</td><td>3613</td><td>Theory of Automata and Formal Languages</td><td>3</td></tr><tr class="r1"><td>CS</td><td>3412</td><td>Operating Systems</td><td>2</td></tr><tr class="r2"><td>CS</td><td>3411</td><td>Operating Systems Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>3712</td><td>Introduction to Information Security and Forensics</td><td>2</td></tr><tr class="r2"><td>CS</td><td>3711</td><td>Introduction to Information Security and Forensics Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>3512</td><td>Computer Architecture</td><td>2</td></tr><tr class="r2"><td>CS</td><td>3511</td><td>Computer Architecture Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>3283</td><td>Graph Algorithms</td><td>3</td></tr></tbody></table>
+
+Semester - 6 (19 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>3432</td><td>Parallel and Distributed Computing</td><td>2</td></tr><tr class="r2"><td>CS</td><td>3431</td><td>Parallel and Distributed Computing Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>3812</td><td>Artificial Intelligence</td><td>2</td></tr><tr class="r2"><td>CS</td><td>3811</td><td>Artificial Intelligence Lab</td><td>1</td></tr><tr class="r1"><td>HMCS</td><td>3033</td><td>Technical &amp; Business Writing</td><td>3</td></tr><tr class="r2"><td>CS</td><td>3192</td><td>Web Application Development</td><td>2</td></tr><tr class="r1"><td>CS</td><td>3191</td><td>Web Application Development Lab</td><td>1</td></tr><tr class="r2"><td>CS</td><td>3072</td><td>Numerical Computing</td><td>2</td></tr><tr class="r1"><td>CS</td><td>3071</td><td>Numerical Computing Lab</td><td>1</td></tr></tbody></table>
+
+Summer Semester (03 Cr. Hrs)
+----------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>4103</td><td>Internship</td><td>3</td></tr></tbody></table>
+
+Semester - 7 (14 Cr. Hrs.)
+--------------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>4622</td><td>Compiler Construction</td><td>2</td></tr><tr class="r2"><td>CS</td><td>4621</td><td>Compiler Construction Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>4912</td><td>Mobile Application Development</td><td>2</td></tr><tr class="r2"><td>CS</td><td>4911</td><td>Mobile Application Development Lab</td><td>1</td></tr><tr class="r1"><td>CS</td><td>4613</td><td>Machine Learning</td><td>3</td></tr><tr class="r2"><td>CS</td><td>4272</td><td>Human Computer Interaction</td><td>2</td></tr><tr class="r1"><td>CS</td><td>4271</td><td>Human Computer Interaction Lab</td><td>1</td></tr><tr class="r2"><td>CS</td><td>4912</td><td>Design Project (Part-I)</td><td>2</td></tr><tr class="r1"><td>CS</td><td>4573</td><td>Blockchain Technology</td><td>3</td></tr></tbody></table>
+
+Semester-8 (10 Cr. Hrs)
+-----------------------
+
+<table class="sem_table"><colgroup><col class="c1"> <col class="c2"> <col class="c3"> <col class="c4"></colgroup><tbody><tr style="color: white !important; background-color: #112269 !important;"><td colspan="2"><strong>Course Code</strong></td><td><strong>Course Title</strong></td><td><strong>Cr. Hrs.</strong></td></tr><tr class="r1"><td>CS</td><td>4924</td><td>Design Project (Part-II)</td><td>4</td></tr><tr class="r2"><td>CS</td><td>4333</td><td>Introduction to Data Warehousing</td><td>3</td></tr><tr class="r1"><td>ACCS</td><td>4003</td><td>Financial Accounting</td><td>3</td></tr></tbody></table>
+
+#### [Program Educational Objectives (PEOs)](https://cust.edu.pk/faculty-of-computing/department-of-computer-science/bs-computer-science/#1659674219388-dcd89c27-6897)
+
+<table class="sem_table"><colgroup><col class="peo1"> <col class="peo2"></colgroup><tbody><tr><th width="7%">Sr. #</th><td width="33%">Statement</td></tr><tr><td width="7%">&nbsp; PEO-1</td><td width="33%">Contribute competently in the computing industry by applying requisite technical skills.</td></tr><tr><td width="7%">&nbsp; PEO-2</td><td width="33%">Demonstrate advancement in computing profession by enhancing their knowledge and skills.</td></tr><tr><td width="7%">&nbsp; PEO-3</td><td width="33%">Demonstrate ethical values and contribute positively towards the society.</td></tr></tbody></table>
+
+#### [Program Learning Outcomes (PLOs)](https://cust.edu.pk/faculty-of-computing/department-of-computer-science/bs-computer-science/#1659674219328-7d428c47-e1ff)
+
+<table class="sem_table"><tbody><tr><th width="7%">Sr. #</th><td width="12%">Learning Objective</td><td width="33%">Statement</td></tr><tr class="r1"><td width="4%">&nbsp; &nbsp;PLO-1</td><td width="8%">Academic Education</td><td width="33%"><p align="justify">To prepare graduates as computing professionals.</p></td></tr><tr class="r2"><td width="4%">&nbsp; PLO-2</td><td width="8%">Knowledge for Solving Computing Problems</td><td width="33%"><p align="justify">Apply computer science theory and software development fundamentals to produce computing-based solutions.</p></td></tr><tr class="r1"><td width="4%">&nbsp; PLO-3</td><td width="8%">Problem Analysis</td><td width="33%"><p align="justify">Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.</p></td></tr><tr class="r2"><td width="4%">&nbsp; PLO-4</td><td width="8%">Design/Development of Solutions</td><td width="33%"><p align="justify">Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the problem’s discipline.</p></td></tr><tr class="r1"><td width="4%">&nbsp; PLO-5</td><td width="8%">Modern Tool Usage</td><td width="33%"><p align="justify">Create, select , adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations.</p></td></tr><tr class="r2"><td width="4%">&nbsp; PLO-6</td><td width="8%">Individual and Team Work</td><td width="33%"><p align="justify">Function effectively as a member or leader of a team engaged in activities appropriate to the problem’s discipline.</p></td></tr><tr class="r1"><td width="4%">&nbsp; PLO-7</td><td width="8%">Communication</td><td width="33%"><p align="justify">Communicate effectively, in a variety of professional contexts.</p></td></tr><tr class="r2"><td width="4%">&nbsp; PLO-8</td><td width="8%">Computing Professionalism and Society</td><td width="33%"><p align="justify">Recognize professional responsibilities and make informed judgments in computing practice based on legal principles.</p></td></tr><tr class="r1"><td width="4%">&nbsp; PLO-9</td><td width="8%">Ethics</td><td width="33%"><p align="justify">Understand and commit to professional ethics, responsibilities, and norms of professional computing practice</p></td></tr><tr class="r1"><td width="4%">&nbsp; PLO-10</td><td width="8%">Lifelong Learning</td><td width="33%">Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional.</td></tr></tbody></table>
+
+### Follow Us on Social Media
+
+*   [](https://www.facebook.com/capitaluniversityislamabad)
+*   [](https://www.instagram.com/capital_university/?hl=en)
+*   [](https://pk.linkedin.com/school/capital-university-of-science-and-technology/)
+
+#### Other Links
+
+*   [Accreditation](https://cust.edu.pk/accreditation/)
+*   [Societies & Clubs](https://cust.edu.pk/societies-clubs/)
+*   [Alumni](http://alumni.cust.edu.pk/)
+*   [Prospectus](https://cust.edu.pk/prospectus/)
+*   [Scholarships](https://cust.edu.pk/scholarship/)
+*   [ELIC](https://cust.edu.pk/office-of-external-linkages-and-international-collaborations/)
+*   [VIS Directorate](https://cust.edu.pk/my-capital/vis-directorate/)
+*   [Career Services Office](https://cust.edu.pk/placement-office/)
+*   [DSE](https://cust.edu.pk/sustainability/)
+
+#### Useful Links
+
+*   [FAQs](https://cust.edu.pk/faqs/)
+*   [Policy](https://cust.edu.pk/policies/)
+*   [Harassment at Workplace](https://cust.edu.pk/wp-content/uploads/2022/12/CUST-Harasment-Policy-28-01-2022.pdf)
+*   [Faculty Hand Book](https://cust.edu.pk/static/uploads/2019/10/CUST-Faculty-Hand-Book-as-on-23-Oct-2019.pdf)
+*   [JBRC](http://jbr-cust.azurewebsites.net/)
+*   [CPEC](https://cpec-centre.pk/)
+*   [Privacy Policy](https://cust.edu.pk/privacy-policy/)
+*   [Employee Portal](https://cms.cust.edu.pk/)
+*   [Downloads](https://cust.edu.pk/downloads/)

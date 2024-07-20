@@ -1,0 +1,244 @@
+Title: CS Faculty Members - Capital University of Science & Technology
+
+URL Source: https://cust.edu.pk/faculty-of-computing/se-faculty-members/
+
+Markdown Content:
+##### Department of Computer Science
+
+[![Image 1: Dr-AbdulQadir](https://cust.edu.pk/wp-content/uploads/2018/04/Dr-AbdulQadir.png)](https://cust.edu.pk/our_team/dr-m-abdul-qadir/)
+
+[![Image 2: dr-nayyar](https://cust.edu.pk/wp-content/uploads/2018/04/dr-nayyar.png)](https://cust.edu.pk/our_team/dr-nayyer-masood/)
+
+[![Image 3: dr-amirqayyum](https://cust.edu.pk/wp-content/uploads/2018/04/dr-amirqayyum.png)](https://cust.edu.pk/our_team/dr-amir-qayyum/)
+
+#### Dr. M Abdul Qadir
+
+PROFESSOR / DEAN FACULTY OF COMPUTING
+
+Twenty five years of my career can be categorized into three main areas as industry, academia and management. I am currently actively involved in teaching / R&D and academic management. I have been teaching and doing research in the development of simple and efficient algorithms to solve real-life problems by using soft computing. From times to times, I have been focusing on problems in different domains. My current focus is on semantic web, multimedia semantics, Ontologies, distributed systems and bioinformatics as is clear from more than 80 research publications in international refereed proceedings and journals. I have been playing a leading role in the management of industry and academia and have produced significant results in achieving the goals of these R&D organizations. I have played a pivotal role in the organization of three international conferences in Pakistan. I am also on the program committees of various international conferences. I have presented myscholarly work in many conferences all over the world. In the first five years of my carrier I was involved in the design and development of systems in the areas of Electronic (analogue & digital), Integration of Electronics with Optics, Development of interfaces between heterogeneous electronics systems / modules by different vendors, system level production facility design and management, understanding the ballistic computing systems for main battle tanks, Integration of thermal imaging system with existing ballistic computers, and successful tests & field trials of these systems in the main battle tanks. My multi-dimensional experience of work in industry, academia, management and consultancy in different sectors has been an excellent help to solve high-tech challenging problems as well as to lead projects & organizations. I enjoy an exceptional combination of technical and communication skills which have always been helpful in getting work done from all the team members. I am very much interested in utilization of my energies in the development of higher education, research institutions and technical organizations in developing countries like Pakistan.
+
+Show less
+
+#### Dr. Nayyer Masood
+
+PROFESSOR
+
+Nayyer Masood has been teaching at university level for more than 25 years. He started his career from Bahauddin Zakariay Unviersity, Multan and is among the pioneer teachers of the department. He played pivotal role in initiating different programs in the Department of Computer Science at the BZU Multan. Later he did his PhD from University of Bradford, UK and rejoined BZU Multan. Meanwhile he also served at different universities or degree awarding institutes like Barani Institute of Information Technology, Rawalpindi and COMSATS Wah. Later he served at Mohammad Ali Jinnah University, Islamabad as Associate Professor and Head of Computer Science Department. for more than eight years. Currently he is serving as HoD Computer Science at Capital University of Science and Technology, Islamabad. He is mainly involved in teaching Database related courses.
+
+Show less
+
+#### Dr. Amir Qayyum
+
+PROFESSOR/DEAN EL & IC
+
+Self motivated and ambitious, having both management and technical expertise with leadership skills to effectively lead a team; creative and visionary thought leader, numerous publications and co-author of an RFC in IETF (Internet Engineering Task Force) about mobile ad hoc networks; Fifteen years of teaching experience at Masters and Ph.D. level, including professional trainings, seminars and conferences in the area of networking; also supervising many MS and Ph.D students in their research; Ten years of administration and management experience as Dean Faculty of Engineering, Head of Electronic Engineering Department and Chairman of Computer Engineering department; plus more than eight years of experience as Project Director of many R&D projects, managing all activities including project planning, budget planning and management, HR management and development and other technical activities; Seven years of industry experience, including four years as technical team lead, in networks and data communications, protocol stack development and system design; Actively involved with IEEE Islamabad Section (since 2005); Chair IEEE Computer Society Islamabad Chapter (since June 2009), Secretary and Treasurer IEEE Islamabad Section (2011 - 2013); Chair Executive Council Internet Society (ISOC) Islamabad Chapter; Expertise in network routing protocols, IPv4 and IPv6, Wireless and Mobile networking, IEEE 802.11 and 802.16, QoS, VoIP, IPSec and Network Security; good understanding of project management, HR development with personal leadership, finance, industrial psychology, organizational leadership, professional ethics, etc.; Multi-cultural personality with understanding of many languages and having done extensive tourism all around the world.
+
+Show less
+
+[![Image 4: Dr.-Masroor–Ahemd](https://cust.edu.pk/wp-content/uploads/2018/04/Dr.-Masroor-Ahemd.png)](https://cust.edu.pk/our_team/dr-m-masroor-ahmed/)
+
+[![Image 5: Dr_Abdul__Basit](https://cust.edu.pk/wp-content/uploads/2018/04/Dr_Abdul__Basit.png)](https://cust.edu.pk/our_team/dr-abdul-basit-siddiqui/)
+
+[![Image 6: dr–siraj](https://cust.edu.pk/wp-content/uploads/2018/04/dr-siraj.png)](https://cust.edu.pk/our_team/dr-m-siraj-rathore/)
+
+#### Dr. M. Masroor Ahmed
+
+PROFESSOR
+
+Dr. M. Masroor Ahmed received MS and PhD degrees in Computer Science from Universiti Teknologi Malaysia (UTM), Malaysia, in 2006 and 2009, respectively. He joined academia in 2010 and has worked in various positions. He is currently working as Professor in the Department of Computer Science, Capital University of Science and Technology (CUST), Islamabad. He has participated in numerous research and industrial projects both as a researcher and as a team lead. He has published more than 25 research papers in renowned scientific journals and conferences. His research focuses on medical image processing, biometric systems, pattern recognition and computational optimization.
+
+Show less
+
+#### Dr. Abdul Basit Siddiqui
+
+ASSOCIATE PROFESSOR / HOD COMPUTER SCIENCE
+
+Dr. Abdul Basit completed PhD in Computer Science in 2010 from National University of Computer & Emerging Sciences (NUCES) FAST Islamabad. Later he worked in different universities in Pakistan on different positions. In 2014, he joined Dept. of Computer Science in Saudi Electronics University, Jeddah and after serving almost two years there, he travelled to Canada for further research. He joined Capital University of Science & Technology in 2018. Dr. Siddiqui has been member of different university and HEC level committees including National Curriculum and Revision Committee for Computer Science in 2012-2013. He earned scholarships at different stages of education which include Ministry of Science & Technology (MoST) scholarship in 2000 and HEC MS leading to PhD scholarship. Dr. Siddiqui has authored more than 20 international conferences and journal publications. He is also co-author of two international books. There are a number of MS and PhD scholars working under his supervision.
+
+Show less
+
+#### Dr. M. Siraj Rathore
+
+Assistant Professor
+
+M. Siraj Rathore has blend of experience both from academia and IT industry. He started his professional career in 2002 after completing his Master of Computer Science degree from university of arid agriculture Rawalpindi. He worked as a software engineer at Pakistan International Computer Limited and contributed in various software development projects. Meanwhile he also enrolled in MS Computer Engineering program at Center for Advanced Studies in Engineering and completed degree in 2005. After that, Dr. Rathore started his academic career and served as a faculty member at University of Engineering and Technology, Taxila. Later he did his Ph.D. from KTH Royal Institute of Technology, Sweden. At KTH, he worked at networked systems laboratory and participated in international research projects. He also served as a consultant at Ericsson Sweden for some time. Later he came back to Pakistan in 2019 and joined Barani Institute of Information Technology Rawalpindi as an assistant professor. Currently he is working as an assistant professor at Capital University of Science and Technology. He is the member of Advanced Network and Security research group and teaching computer networks and object-oriented programming courses.
+
+Show less
+
+[![Image 7: dr–saqib](https://cust.edu.pk/wp-content/uploads/2018/04/dr-saqib.png)](https://cust.edu.pk/our_team/dr-s-saqib-raza-rizvi/)
+
+[![Image 8: Dr–Shafiq](https://cust.edu.pk/wp-content/uploads/2018/04/Dr-Shafiq.png)](https://cust.edu.pk/our_team/dr-shafiq-ur-rehman/)
+
+[![Image 9: Bilal-Ahmad](https://cust.edu.pk/wp-content/uploads/2018/04/Bilal-Ahmad.png)](https://cust.edu.pk/our_team/mr-bilal-ahmad/)
+
+#### Dr. S. Saqib Raza Rizvi
+
+Assistant Professor
+
+Dr. Syed Saqib Raza completed the PhD degree in Computer Science from the national College of Business Administration & Economics, PK., in 2020, and joined academia where he worked at different positions including Lecture and Assistant Professor. Dr. Syed Saqib Raza research interests are in Machine Learning and Artificial Intelligence. He has supervised numerous MS and currently co-supervising one PhD research projects. He authored 9 research ISI-indexed and impact factor papers.
+
+Show less
+
+#### Dr. Shafiq Ur Rehman
+
+Assistant Professor
+
+Dr. Khan completed the PhD degree in Computer Science from Capital University of Science and Technology, Islamabad in 2019. Following his graduation, he ventured into academia, where he worked as Assistant Professor, Head of Department, Director Business Incubation and Provost. He served as member of several committees, including Board of Studies (BoS), Board of Faculty (BoF), disciplinary, post-graduate, admission, CQI, BASAR and PGPR committees. His research interest includes Natural Language Processing, Information Retrieval, Machine Learning and Artificial Intelligence. He has supervised more 6 MS thesis and 8 Final Year Projects. 1 PhD student is under his supervision.
+
+Show less
+
+#### Mr. Bilal Ahmad
+
+Senior Lecturer
+
+I completed my masters in 2010 and bachelors in 2006. I have strong interest in computer networks. In my career I have worked with various groups that were involved in establishing and configuring networks. I am capable of configuring and deploying CISCO switches, router, firewalls, red hat linux server, squid proxy server, windows server 2003, windows server 2008, active directory server, dhcp servers, establishing VPN connections. Above all this I love teaching as a professional career as this open my mind towards new dimensions.
+
+Show less
+
+[![Image 10: salman-ahmed](https://cust.edu.pk/wp-content/uploads/2018/04/salman-ahmed.png)](https://cust.edu.pk/our_team/mr-salman-ahmed/)
+
+[![Image 11: Tayyaba__Zaheer](https://cust.edu.pk/wp-content/uploads/2018/04/Tayyaba__Zaheer.png)](https://cust.edu.pk/our_team/ms-tayyaba-zaheer/)
+
+[![Image 12: Faheem–Shehzad](https://cust.edu.pk/wp-content/uploads/2018/04/Faheem-Shehzad.png)](https://cust.edu.pk/our_team/fahim-shahzad/)
+
+#### Mr. Salman Ahmed
+
+Senior Lecturer
+
+Mr. Salman Ahmed is currently working as a Senior Lecturer in Computer Science Department of Capital University of Science and Technology, Islamabad, where he is also coordinating the department labs. He did his MS(CS) degree in Software Engineering from Mohammad Ali Jinnah University, Islamabad. During his MS(CS) degree he was appointed as a Junior Lecturer in 2011. He has been allied with academia from the last 4 years. His research area is Mobile agents Communication and RDF Graphs. He was also associated with Pakistan Electronic Media Regularity Authority (PEMRA) as a web developer in 2010.
+
+Show less
+
+#### Ms. Tayyaba Zaheer
+
+SENIOR Lecturer
+
+Tayyaba Zaheer has been teaching at university level for more than 02 years. She started her career after BS in Computer Science in 2013 as Internee Software Developer at Whizpool, Pakistan. After that she worked as internee at Jolta Technologies, Pakistan. Then she joined a semi government organization i.e. Pakistan Revenue Automation Ltd. (PRAL) as Internee Research and Development. Serving Pakistan Army as a Software developer is also on her credit. Later she has done her MS in Computer Science from School of Electrical Engineering and Computer Science (SEECS), NUST in 2017. During MS studies at NUST, she has served as Teaching Assistant for one semester. After MS, she started her teaching career at Barani Institute of Management Sciences (BIMS). During her teaching career, she taught as Temporary Visiting faculty at different universities including BIMS, Iqra University, and NUST. Currently she is serving as Lecturer Computer Science at Capital University of Science and Technology, Islamabad.
+
+Show less
+
+#### Mr. Fahim Shahzad
+
+Senior Lecturer
+
+Mr. Fahim Shahzad completed the MS degree in Personal, Mobile & Satellite communications from the University of Bradford, U.K., and joined academia. Mr. Fahim’s research interests are in Computer Networks and Internet of Things.
+
+Show less
+
+[![Image 13: zeeshan–sabir](https://cust.edu.pk/wp-content/uploads/2018/04/zeeshan-sabir.png)](https://cust.edu.pk/our_team/mr-m-zeeshan-sabir/)
+
+[![Image 14: m-owais](https://cust.edu.pk/wp-content/uploads/2018/04/m-owais.png)](https://cust.edu.pk/our_team/mr-muhammad-owais/)
+
+[![Image 15: yafra–](https://cust.edu.pk/wp-content/uploads/2018/04/yafra-.png)](https://cust.edu.pk/our_team/ms-yafra-khan/)
+
+#### Mr. M. Zeeshan Sabir
+
+Lecturer
+
+Mr. Zeeshan Sabir completed the Master degree in Information Security from the Riphah institute of System Engineering (RISE), Islamabad and have done Software Engineering from UET.He worked at various positions including software engineer in Pakistan Telecommunication Cooperation Ltd Islamabad, Web developer in Dewintec, Network administrator in Asian Building System (ABS) making him a perfect fit to join academia. He worked as lecturer in Riphah International University and now working in Capital university of Science and Technology Islamabad to make quality factor sustainable in its educational services. During his career he has completed several exciting projects in information systems.
+
+Show less
+
+#### Mr. Muhammad Owais
+
+Lecturer
+
+Mr. Muhammad Owais obtained his MS degree in Computer Science under Fully Funded Graduate Scholarship from the GIK Institute of Engineering Sciences and Technology, Pakistan., in 2021. His area of research during his MS was Medical Image Processing, and machine learning where he worked at AIM lab and proposed new diagnosis for attention deficit hyperactivity disorder (ADHD). He joined academia as Graduate Assistant in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) where he assisted in different courses and as Instructor, he conducted labs. He also did clerical work as a record keeper for PEC, and HEC visits at the university. He joined academia as lecturer in National Textile University (NTU), where he was class advisor of BSCS, member of short courses committee, and was a member of designing the curriculum of BS (Cyber Security) and BS (Data Science). Currently he is working as a Lecturer at Capital University of Science and Technology since October 2022.
+
+Show less
+
+#### Ms. Yafra Khan
+
+Lecturer
+
+Ms. Yafra Khan completed the MSc degree in Computer Science (By Research) in 2018 and joined academia in 2020. She worked as a visiting lecturer from 2020 to 2021 at Foundation University Rawalpindi Campus and now working in CUST as a permanent lecturer. Her research interests include Machine Learning, Artificial Intelligence, Data Science, and Predictive Analytics. She has also worked as a Software Engineer in F3 Technologies and cloud technologies instructor remotely. She also has conference and journal publications.
+
+Show less
+
+[![Image 16: hashim__ayub](https://cust.edu.pk/wp-content/uploads/2018/04/hashim__ayub.png)](https://cust.edu.pk/our_team/mr-hashim-ayub/)
+
+[![Image 17: adnan–](https://cust.edu.pk/wp-content/uploads/2018/04/adnan-.png)](https://cust.edu.pk/our_team/mr-adnan-jelani/)
+
+[![Image 18: rida-haya](https://cust.edu.pk/wp-content/uploads/2018/04/rida-haya.png)](https://cust.edu.pk/our_team/ms-rida-haya/)
+
+#### Mr. Hashim Ayub
+
+Associate Lecturer
+
+Mr. Hashim completed the MS degree in computer science from National University of Computer and Emerging Sciences (FAST), Islamabad in 2021 and joined Capital University of Science and Technology as an associate lecturer. His research interests are in Artificial Intelligence, Machine Learning and Evolutionary Computation.
+
+Show less
+
+#### Mr. Adnan Jelani
+
+Associate Lecturer
+
+Mr. Adnan Jelani is currently working as an Associate Lecturer in Computer Science Department of Capital University of Science and Technology, Islamabad. After the completion of bachelor’s degree from Federal Urdu University, Islamabad, he worked for a year in software industry as software engineer (Unit Testing). He completed the MS degree in computer science from National University of Computer and Emerging Sciences (FAST), Islamabad in 2022 and joined Capital University of Science and Technology as an Associate Lecturer. His research areas are Artificial Intelligence, Evolutionary Computation, Software Testing and Machine Learning.
+
+Show less
+
+#### Ms. Rida Haya
+
+Associate Lecturer
+
+Rida Haya completed the MS degree in Computer Science from the University of Haripur, Pakistan, in 2021, and joined academia where she worked as Lecturer and Associate Lecturer. Rida Haya's research interests are in Information-Centric Networking and IoT.
+
+Show less
+
+[![Image 19: Snober–](https://cust.edu.pk/wp-content/uploads/2018/04/Snober-.png)](https://cust.edu.pk/our_team/ms-snober-naseer/)
+
+[![Image 20: memoona–bilal](https://cust.edu.pk/wp-content/uploads/2018/04/memoona-bilal.png)](https://cust.edu.pk/our_team/ms-mamoona-bilal/)
+
+[![Image 21: abdul-haseeb](https://cust.edu.pk/wp-content/uploads/2024/06/abdul-haseeb.png)](https://cust.edu.pk/our_team/abdul-haseeb/)
+
+#### Ms. Snober Naseer
+
+Associate Lecturer
+
+Show less
+
+#### Ms. Mamoona Bilal
+
+Associate Lecturer
+
+Ms. Mamoona Bilal is currently working as an Associate Lecturer in Computer Science Department of Capital University of Science and Technology, Islamabad. After the completion of bachelor’s degree from FJWU, Rawalpindi, she worked for a year in International Islamic University, Islamabad as an Administraror. She completed the MS degree in computer science from National University of Computer and Emerging Sciences (FAST), Islamabad in 2020.She also worked as a lecturer at Sir Syed CASE Institute of Technology for two years and joined Capital University of Science and Technology as an Associate Lecturer. Her research areas are Machine Learning, Energy Optimization, Green Computing.
+
+Show less
+
+#### Abdul Haseeb
+
+Associate Lecturer
+
+Abdul Haseeb completed his Bachelor of Science in Computer Science from COMSATS university Islamabad. He has completed Master of Science in Computer Science from COMSATS university Islamabad. He also worked as research assistant at HITEC university Taxila Cantt. Currently he is working as associate lecturer in computer science at Capital University of Science and Technology Islamabad.
+
+Show less
+
+[![Image 22: IMG_955556](https://cust.edu.pk/wp-content/uploads/2024/07/IMG_955556-200x200.jpg)](https://cust.edu.pk/our_team/muhammad-zulqarnain/)
+
+[![Image 23: nayab](https://cust.edu.pk/wp-content/uploads/2024/07/nayab-200x200.jpg)](https://cust.edu.pk/our_team/nayab-sajid/)
+
+[![Image 24: DSC_0494b](https://cust.edu.pk/wp-content/uploads/2024/07/DSC_0494b-200x200.png)](https://cust.edu.pk/our_team/rafah-ahmed/)
+
+#### M. Zulqarnain
+
+Associate Lecturer
+
+Muhammad Zulqarnain is a skilled data scientist and machine learning expert having a Master's degree in Data Science. He has strong background in both theory and practical application of Data Science and specializes in leveraging advance algorithms to extract valuable insights from data.
+
+Show less
+
+#### Nayab Sajid
+
+Lab Instructor
+
+Ms. Nayab Sajid have done Masters in Computer Science (MSc) in 2020 from virtual university of Pakistan. Currently she is a research student of MSCS in CUST Islamabad. She doing research in information retrieval domain using machine learning and artificial intelligence techniques.
+
+Show less
+
+#### Rafah Ahmed
+
+Lab Instructor
+
+Mr. Rafah Ahmed completed the BS degree in Computer Science from KICSIT affiliated with UET in 2023. He joined Capital University of Science and Technology as Lab Instructor in 2024
+
+Show less
